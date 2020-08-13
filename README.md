@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Tushar 👋🧑🏼‍💻
 
 ![Alt Text](https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif)
 
