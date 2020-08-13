@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif)
 
-#### I am a Software developer who loves making Android and iOS Mobile Applications. I enjoy working with Android Studio and Xcode and my technical language stack includes Java, Kotlin, Swift, C/C++, Python, TypeScript. Other than Mobile App development, I also love technoligies like Machine learning and Deep learning.
+I am a Software developer who loves making Android and iOS Mobile Applications. I enjoy working with Android Studio and Xcode and my technical language stack includes Java, Kotlin, Swift, C/C++, Python, TypeScript. Other than Mobile App development, I also love technoligies like Machine learning and Deep learning.
 
 ## 📫 How to reach me: 
 ### 📧 Gmail: tushargusain40@gmail.com
