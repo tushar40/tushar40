@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Alt Text](https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif)
+
 ## 📫 How to reach me: 
 ### 📧 Gmail: tushargusain40@gmail.com
 ### 📩 LinkedIn: https://www.linkedin.com/in/tushar-gusain/
