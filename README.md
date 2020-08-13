@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 ## 📫 How to reach me: 
-# 📧 Gmail: tushargusain40@gmail.com
-# 📩 LinkedIn: https://www.linkedin.com/in/tushar-gusain/
+### 📧 Gmail: tushargusain40@gmail.com
+### 📩 LinkedIn: https://www.linkedin.com/in/tushar-gusain/
 
 ## 📑 Follow my blogs on: https://medium.com/@tushargusain40
 
