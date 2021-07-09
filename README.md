@@ -10,6 +10,8 @@ I am a Software developer who loves making Android and iOS Mobile Applications. 
 
 ## 📑 Follow my blogs on: https://medium.com/@tushargusain40
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar40&layout=compact)](https://github.com/tushar40/github-readme-stats)
+
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar40&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 <!--
