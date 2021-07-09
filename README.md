@@ -10,5 +10,7 @@ I am a Software developer who loves making Android and iOS Mobile Applications. 
 
 ## 📑 Follow my blogs on: https://medium.com/@tushargusain40
 
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar40&hide=contribs,prs&show_icons=true&theme=tokyonight)
+
 <!--
 **tushar40/tushar40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
