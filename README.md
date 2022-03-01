@@ -7,6 +7,7 @@ I am a Software developer from India who loves making Android and iOS Mobile App
 ## 📫 How to reach me: 
 ### 📧 Gmail: tushargusain40@gmail.com
 ### 📩 LinkedIn: https://www.linkedin.com/in/tushar-gusain/
+### Gitlab: https://gitlab.com/tushar401
 
 ## 📑 Follow my blogs on: https://medium.com/@tushargusain40
 
